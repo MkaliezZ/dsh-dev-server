@@ -1,0 +1,10 @@
+{
+  "name": "@mkaliezz/dsh-dev-server",
+  "version": "0.1.0",
+  "type": "module",
+  "private": false,
+  "description": "DSH plugin: dsh-dev-server",
+  "license": "MIT",
+  "scripts": {"test": "node --test"},
+  "keywords": ["dsh-plugin", "deepseek-harness"]
+}
